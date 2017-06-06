@@ -1,0 +1,2 @@
+# lzhtest
+test for lzh
